@@ -1,4 +1,4 @@
-# Improving Quality of Life through for Autism sufferers with AI
+# Improving Quality of Life for Autism sufferers with AI
 
 
 ### Problem statement
