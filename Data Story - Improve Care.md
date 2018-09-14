@@ -54,7 +54,7 @@ Development of this solution is done in an agile way with a define set of Progra
 ### Design Approach -
 
   - Start Simple Use available data and services - AWS / Alexa - General available data Scientist
-    - Increase complexity overtime. 
+    - Increase complexity overtime.
   - Ensure each service talks through APIs
   - Prove value at each stage, feedback improvement into the Team
   - Utilise Agile technics - create backlog, develop Sprints, gain metrics on team capacity
@@ -136,6 +136,28 @@ There are approximately 540,000 people with ASDs in the UK, of whom 433,000 are 
 
 Cost of autism to the UK economy is £32.1bn per year, compared to cancer (£12bn) heart disease (£8bn) and stroke (£5bn).
 We spend just £4m per year on autism research, as compared to cancer (£590m) heart disease (£169m) or stroke (£32m).
+
+### Technology Choices
+
+#### AI Assistants
+
+- Alexa
+
+
+- Cortana
+
+
+- Google Assist
+
+
+- Siri
+
+
+
+#### Stream
+
+![Stream Table](./stream.png)
+
 
 ### References - (UK based research to date)
 
