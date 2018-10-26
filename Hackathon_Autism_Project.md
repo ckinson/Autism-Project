@@ -56,11 +56,13 @@ Following a successful pattern match, an Alexa response should be triggered with
 These data sets are made up, based on nominal levels from various data sources.
 
   - Two Data sets are provided
-    1: Biometric from Off the self Personal Device (Fitbit or Other)
+    - 1: Biometric from Off the self Personal Device (Fitbit or Other)
       - https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv
-    2: Light Levels
+      
+    - 2: Light Levels
       - https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv
-    3: Location Temperature
+      
+    - 3: Location Temperature
       - https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv
 
 ##### Data Sources
