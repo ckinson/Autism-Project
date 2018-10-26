@@ -60,7 +60,7 @@ These data sets are made up, based on nominal levels from various data sources.
       - https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv
     2: Light Levels
       - https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv
-    3: Location Templat
+    3: Location Temperature
       - https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv
 
 ##### Data Sources
