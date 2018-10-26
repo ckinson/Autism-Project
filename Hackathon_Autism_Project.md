@@ -45,16 +45,27 @@ Following a successful pattern match, an Alexa response should be triggered with
 ### Tools
 
   - Code will reside on Public Github under and agreed DXC Repository.
-    - Team 1 - https://partner-github.csc.com
-    - Team 2 - https://partner-github.csc.com
+    - Team 1 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team1
+    - Team 2 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team2
   - Any AWS service can be used
   - Alexa will be the AI interface
 
 
 ### Data
+
+These data sets are made up, based on nominal levels from various data sources.
+
   - Two Data sets are provided
     1: Biometric from Off the self Personal Device (Fitbit or Other)
-    2: Home based Smart Thermo Stat
+      - https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv
+    2: Light Levels
+      - https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv
+
+##### Data Sources
+
+ - https://www.tuck.com/thermoregulation/
+
+
 
 ### Added Credit
 
