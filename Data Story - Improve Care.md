@@ -9,11 +9,11 @@ People who suffer from Autism want to have a normal quality of life, however wha
 
 Through the capture of data which relates to Biometrics, Environment and Location regarding an autism sufferer in realtime, the solution can apply a set of analytics to provide a response to Patient through mobile devices, Carer through response systems and or mobile devices, 3rd parties (family members).
 
-![Digital Health](./dighealth.jpg)
+![Digital Health](./images/dighealth.jpg)
 
 Using AI - Create the a digital representation of an autism sufferer which takes information form sensors and data points to provide a realtime view of current state, analytics can be grown and applied to provided event and triggers through the processing of multiple information data sources to react/respond to known threats which can cause a suffer to have an episode.
 
-![AI Flow](./aiflow.png)
+![AI Flow](./images/aiflow.png)
 
 ### Cross Industry Applicability
 
@@ -71,7 +71,7 @@ Development of this solution is done in an agile way with a define set of Progra
 
 * Repeat for each domain, create simple sense and response through AI home based tooling
 
-![Stage 1](./Stage1.png)
+![Stage 1](./images/Stage1.png)
 
 #### Stage 2 (Single Pain of glass insight)
 
@@ -80,7 +80,7 @@ Development of this solution is done in an agile way with a define set of Progra
 - Provide a single response to the AI system - Increase Information statement
   - " Carl is located <local>, the location is <Temp>, <Noisy>, his bio signals are <Heart rate, Stress level>"
 
-![Stage 2](./Stage2.png)
+![Stage 2](./images/Stage2.png)
 
 #### Stage 3 - Increase awareness (Target the audience)
 
@@ -92,7 +92,7 @@ Development of this solution is done in an agile way with a define set of Progra
 
 - [Future] Beacon to inform emergency services that person they are dealing with has Autism. In certain situations an incorrect response by the emergency service who might be dealing with an issue, need to be informed that the individual suffers from a mental illness and maybe experiencing an episode, therefore will respond differently and need to be handle in the correct way.
 
-![Stage 3](./Stage3.png)
+![Stage 3](./images/Stage3.png)
 
 #### Stage 4 -  Continuously Improve the analytics (New Data, Better Sensors, Better Algorithms)
 
@@ -100,13 +100,13 @@ Development of this solution is done in an agile way with a define set of Progra
     - Introduce new data sets, new sensing devices
 - Improve analytic, refine, increase accuracy, tailor to specific profiles (Male, Female, Age, Spectrum Level etc.....)
 
-![Stage 4](./Stage4.png)
+![Stage 4](./images/Stage4.png)
 
 #### Stage 5 - (Deeper Insight, continuous development)
 
 - Based on historical data, and tracking events and trigger signs, consider the development of deeper insight to symptoms, causes and detection points for autism to improve mental care, even pre-birth identification.
 
-![Stage 5](./Stage5.png)
+![Stage 5](./images/Stage5.png)
 
 ### KPIs
 
@@ -156,7 +156,7 @@ We spend just £4m per year on autism research, as compared to cancer (£590m) h
 
 #### Stream
 
-![Stream Table](./stream.png)
+![Stream Table](./images/stream.png)
 
 
 ### References - (UK based research to date)
