@@ -47,6 +47,11 @@ Following a successful pattern match, an Alexa response should be triggered with
   - Code will reside on Public Github under and agreed DXC Repository.
     - Team 1 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team1
     - Team 2 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team2
+    - Team 3 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team3
+    - Team 4 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team4
+    - Team 5 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team5
+    - Team 6 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team6
+    - Team 7 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team7
   - Any AWS service can be used
   - Alexa will be the AI interface
 
@@ -56,11 +61,13 @@ Following a successful pattern match, an Alexa response should be triggered with
 These data sets are made up, based on nominal levels from various data sources.
 
   - Two Data sets are provided
-    1: Biometric from Off the self Personal Device (Fitbit or Other)
+    - 1: Biometric from Off the self Personal Device (Fitbit or Other)
       - https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv
-    2: Light Levels
+      
+    - 2: Light Levels
       - https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv
-    3: Location Temperature
+      
+    - 3: Location Temperature
       - https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv
 
 ##### Data Sources
