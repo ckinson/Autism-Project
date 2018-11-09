@@ -47,6 +47,11 @@ Following a successful pattern match, an Alexa response should be triggered with
   - Code will reside on Public Github under and agreed DXC Repository.
     - Team 1 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team1
     - Team 2 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team2
+    - Team 3 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team3
+    - Team 4 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team4
+    - Team 5 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team5
+    - Team 6 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team6
+    - Team 7 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team7
   - Any AWS service can be used
   - Alexa will be the AI interface
 
