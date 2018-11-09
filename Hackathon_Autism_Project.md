@@ -9,7 +9,6 @@ People who suffer from Autism want to have a normal quality of life, however wha
 
 [Reference User stories](./Data%20Story%20-%20Improve%20Care.md)
 
-
 ### Hack-athon scope
 
 The Hack-athon event will focus on the
@@ -26,7 +25,6 @@ The Hack-athon event will focus on the
     - Complex analytics Analysis
     - Security
 
-
 #### Overview
 
 Teams will aim to provide a solution that triggers an Alexa event by the analysis of a set of data held in a cloud ecosystem. The event will be based on the correlation of certain biometric and environmental triggers. (Heart Rate + Room Temperature)
@@ -35,16 +33,24 @@ Following a successful pattern match, an Alexa response should be triggered with
 
   <b>"Hello World, I believe you need some help"</b>
 
-
 ### Preparation
+
+Work Autism Together is doing and why.
 
   - https://www.autism.org.uk/about/behaviour/meltdowns.aspx
   - https://www.bbc.co.uk/news/av/health-44680214/the-watch-that-could-help-manage-severe-autism?SThisFB=
 
+- Make sure you have a Github Account on https://github.com  
+  - Please note we are using two github Repo's
+    - 1: General Information Repo https://github.com/ckinson/Autism-Project (For referance Only / Data Sources)
+    - 2: Your Team repo (detail below) - This is secure, all code, Data and information for your team is stored here.
+- You are familiar with AWS Services
+- Understand the Data you are looking at
+
 
 ### Tools
 
-  - Code will reside on Public Github under and agreed DXC Repository.
+  - Code will reside on a DXC Partner Github under and agreed DXC Repository. (You can login with your email address you provided to DTC).
     - Team 1 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team1
     - Team 2 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team2
     - Team 3 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team3
@@ -55,26 +61,25 @@ Following a successful pattern match, an Alexa response should be triggered with
   - Any AWS service can be used
   - Alexa will be the AI interface
 
-
 ### Data
 
 These data sets are made up, based on nominal levels from various data sources.
 
-  - Two Data sets are provided
+Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment covering Light and Temperature.
+
+  - Three Data sets are provided
     - 1: Biometric from Off the self Personal Device (Fitbit or Other)
       - https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv
-      
+
     - 2: Light Levels
       - https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv
-      
+
     - 3: Location Temperature
       - https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv
 
 ##### Data Sources
 
  - https://www.tuck.com/thermoregulation/
-
-
 
 ### Added Credit
 
