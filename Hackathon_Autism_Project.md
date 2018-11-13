@@ -76,6 +76,15 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
 
     - 3: Location Temperature
       - https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv
+      
+ #### Raw Data - (optional) some data manipulation may be required.
+ 
+ Below is data sent byt Autism Together, collected from the actual devices over a 21hr period. 
+ 
+ I’ve attached some CSV files for the Hackathon. You have some sample data from the environmental system on one spreadsheet and then separate sheets with the E4 (Bio-metric) data, the data we are keen on is the EDA, ACC and heart rate. Please note the accelerometer (ACC) data should be in 3 planes, x,y and z.
+ 
+ https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data
+ 
 
 ##### Data Sources
 
