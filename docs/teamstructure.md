@@ -1,7 +1,7 @@
 ## Teams, User IDs and Email Addresses
 
 
-| Name| 	University	| Team Number|Github ID
+| Name| 	University	| -Team Number-|Github ID
 |-----|---------------|------------|----------|
 |Rui Pedro Lagarto Cabral Bastos de Lima	| Sunderland University	| 1 | <userID> |
 | Luke Allen Richard Tanner-Smith	| Sunderland University|	1|<userID> |
