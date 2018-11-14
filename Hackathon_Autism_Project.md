@@ -1,9 +1,12 @@
 ## Autism Project - Biometric Analysis and Response - Hack-athon
 
-### Problem Statement -
+### General Statement -
 
 People who suffer from Autism want to have a normal quality of life, however what are normal daily tasks / environmental and other events to none autism sufferers are major issues for people who suffer from this invisible mental issue. A lack of investment in social care, means that many people have to try to self heal and handle their activities without supporting systems and intelligence. If technology could provide patients with a non-intrusive monitoring, awareness and alerting service based on information processed by sensors and biometrics, Autism suffers, carers and family can be informed ahead of an issue, and corrective measure could be applied. The volume, variety and veracity of the data to be processed and responded too for a single human is not achievable let alone for 10's 100's of sufferers.
 
+### Problem Statement - 
+
+Autism together (the client) is trying to provide better quality of life for it's patients who suffer from Autism, the challenge today is that current monitoring and reponse is done by human interaction which is inefficant and costly. To improve the monitoing and response for for it patients the client has collected data from various sensors relating to a patients biometric and enviromental levels, the client would like to be able to analyis the data and produce a response to various support functions based on certain triggers levels. The outcome should enable a patient to be monitored independant of a personal carer / family and support a better quality of life. 
 
 ### Overview of Consider Solutions
 
@@ -85,10 +88,6 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
  
  https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data
  
-
-##### Data Sources
-
- - https://www.tuck.com/thermoregulation/
 
 ### Added Credit
 
