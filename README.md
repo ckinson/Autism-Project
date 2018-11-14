@@ -45,12 +45,12 @@ Following a successful pattern match, an Alexa response should be triggered with
 
 Work Autism Together is doing and why.
 
-  - https://www.autism.org.uk/about/behaviour/meltdowns.aspx
-  - https://www.bbc.co.uk/news/av/health-44680214/the-watch-that-could-help-manage-severe-autism?SThisFB=
+  - [Information on Behaviour](https://www.autism.org.uk/about/behaviour/meltdowns.aspx)
+  - [BBC News clip](https://www.bbc.co.uk/news/av/health-44680214/the-watch-that-could-help-manage-severe-autism?SThisFB=)
 
-- Make sure you have a Github Account on https://github.com  
+- Make sure you have a Github Account on [Github Link](https://github.com)  
   - Please note we are using two github Repo's
-    - 1: General Information Repo https://github.com/ckinson/Autism-Project (For reference Only / Data Sources)
+    - 1: General Information Repo [LINK](https://github.com/ckinson/Autism-Project (For reference Only / Data Sources)
     - 2: Your Team repo (detail below) - This is secure, all code, Data and information for your team is stored here.
 - You are familiar with AWS Services
 - Understand the Data you are looking at
@@ -61,16 +61,16 @@ Work Autism Together is doing and why.
   - Code will reside on  Github under the following team spaces, teams will have access throught their Github userid's
 
     - Team 1 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
-    - Team 2 - https://github.com/ckinson/DTC-Hackathon-Team2
-    - Team 3 - https://github.com/ckinson/DTC-Hackathon-Team3
-    - Team 4 - https://github.com/ckinson/DTC-Hackathon-Team4
-    - Team 5 - https://github.com/ckinson/DTC-Hackathon-Team5
-    - Team 6 - https://github.com/ckinson/DTC-Hackathon-Team6
-    - Team 7 - https://github.com/ckinson/DTC-Hackathon-Team7
+    - Team 2 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
+    - Team 3 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team3)
+    - Team 4 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team4)
+    - Team 5 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team5)
+    - Team 6 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team6)
+    - Team 7 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
 
   - Any AWS service can be used -
 
-  https://console.aws.amazon.com/console/home?region=us-east-1
+  [AWS Service Catalogue Link](https://console.aws.amazon.com/console/home?region=us-east-1)
 
   ![AWS Service Cat](./images/awscat.png)
 
@@ -86,13 +86,13 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
 
   - Three Data sets are provided
     - 1: Biometric from Off the self Personal Device (Fitbit or Other)
-      - https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv
+      - [Biometric Data](https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv)
 
     - 2: Light Levels
-      - https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv
+      - [Light Level Data](https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv)
 
     - 3: Location Temperature
-      - https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv
+      - [Location Data](https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv)
 
  #### Raw Data - (optional) some data manipulation may be required.
 
@@ -100,7 +100,7 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
 
  I’ve attached some CSV files for the Hackathon. You have some sample data from the environmental system on one spreadsheet and then separate sheets with the E4 (Bio-metric) data, the data we are keen on is the EDA, ACC and heart rate. Please note the accelerometer (ACC) data should be in 3 planes, x,y and z.
 
- https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data
+ [Raw Data Set](https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data)
 
 
 ### Added Credit
