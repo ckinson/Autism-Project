@@ -58,7 +58,8 @@ Work Autism Together is doing and why.
 
 ### Tools
 
-  - Code will reside on a DXC Partner Github under and agreed DXC Repository. (You can login with your email address you provided to DTC).
+  - Code will reside on  Github under the following team spaces, teams will have access throught their Github userid's
+  
     - Team 1 - https://github.com/ckinson/DTC-Hackathon-Team1
     - Team 2 - https://github.com/ckinson/DTC-Hackathon-Team2
     - Team 3 - https://github.com/ckinson/DTC-Hackathon-Team3
