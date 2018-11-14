@@ -136,5 +136,5 @@ If the teams find that they complete the task, they is options to improve, consi
         - Family - " Carl is fine, but could do with you calling him"
 - Consider increase the Data set
     - Noise, Light (this will require creating a simple data set)
-      - Noise (db) level measured during the time period
-      - Light (Lux) Level measured during the time period
+    - Noise (db) level measured during the time period
+    - Light (Lux) Level measured during the time period
