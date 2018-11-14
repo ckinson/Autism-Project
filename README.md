@@ -1,8 +1,6 @@
 ![Header](./images/header.png)
 
-
-
-#DXC Hack-athon - Biometric Analysis and Response
+# DXC Hack-athon - Biometric Analysis and Response
 
 ## General Statement -
 
@@ -97,7 +95,7 @@ Any AWS service can be used -
 
 #### Alexa Skills Info
 
-      - Alexa will be the AI interface
+- Alexa will be the AI interface
 
     Alexa AI provides the ability to develop your own AI Skills, more information on this can be found here [LINK](https://developer.amazon.com/alexa-skills-kit)
 
