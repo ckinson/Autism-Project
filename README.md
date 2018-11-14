@@ -2,9 +2,7 @@
 
 
 
-# Autism Project - Biometric Analysis and Response - Hack-athon
-
-
+#DXC Hack-athon - Biometric Analysis and Response
 
 ## General Statement -
 
@@ -49,8 +47,8 @@ Following a successful pattern match, an Alexa response should be triggered with
 
 Work Autism Together is doing and why.
 
-    - [Information on Behaviour](https://www.autism.org.uk/about/behaviour/meltdowns.aspx)
-    - [BBC News clip](https://www.bbc.co.uk/news/av/health-44680214/the-watch-that-could-help-manage-severe-autism?SThisFB=)
+- [Information on Behaviour](https://www.autism.org.uk/about/behaviour/meltdowns.aspx)
+- [BBC News clip](https://www.bbc.co.uk/news/av/health-44680214/the-watch-that-could-help-manage-severe-autism?SThisFB=)
 
 - Make sure you have a Github Account on [Github Link](https://github.com)  
   - Please note we are using two github Repo's
@@ -64,7 +62,7 @@ Work Autism Together is doing and why.
 
 #### Team Members
 
-  - Please see the Link below to see your team allocation
+- Please see the Link below to see your team allocation
 
   [Team Members](https://github.com/ckinson/Autism-Project/blob/master/docs/teamstructure.md)
 
@@ -73,20 +71,20 @@ Work Autism Together is doing and why.
 #### Team Spaces
   - Code will reside on  Github under the following team spaces, teams will have access thought their Github userid's
 
-      - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
-      - [Team 2 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
-      - [Team 3 Space](https://github.com/ckinson/DTC-Hackathon-Team3)
-      - [Team 4 Space](https://github.com/ckinson/DTC-Hackathon-Team4)
-      - [Team 5 Space](https://github.com/ckinson/DTC-Hackathon-Team5)
-      - [Team 6 Space](https://github.com/ckinson/DTC-Hackathon-Team6)
-      - [Team 7 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
-      - [Team 8 Space](https://github.com/ckinson/DTC-Hackathon-Team8)
+- [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
+- [Team 2 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
+- [Team 3 Space](https://github.com/ckinson/DTC-Hackathon-Team3)
+- [Team 4 Space](https://github.com/ckinson/DTC-Hackathon-Team4)
+- [Team 5 Space](https://github.com/ckinson/DTC-Hackathon-Team5)
+- [Team 6 Space](https://github.com/ckinson/DTC-Hackathon-Team6)
+- [Team 7 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
+- [Team 8 Space](https://github.com/ckinson/DTC-Hackathon-Team8)
 
 *Note*  - you will see the each repo has three folders
 
-      - <b>Code</b> - this is to store any code you create, including configuration files
-      - <b>Docs</b> - this is to store you documents you create, ensure you document you solution and learnings
-      - <b>Media</b> - If you take photos, or video recordings please store here (funny moments are welcome)
+- <b>Code</b> - this is to store any code you create, including configuration files
+- <b>Docs</b> - this is to store you documents you create, ensure you document you solution and learnings
+- <b>Media</b> - If you take photos, or video recordings please store here (funny moments are welcome)
 
 
 #### AWS Service Info
@@ -111,14 +109,14 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
 
 #### Three Data sets are provided
 
-    - 1: Biometric from Off the self Personal Device (Fitbit or Other)
-      - [Biometric Data](https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv)
+- 1: Biometric from Off the self Personal Device (Fitbit or Other)
+    - [Biometric Data](https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv)
 
-    - 2: Light Levels
-      - [Light Level Data](https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv)
+- 2: Light Levels
+    - [Light Level Data](https://github.com/ckinson/Autism-Project/blob/master/Data/LightLUX-Data_Set-24Hrs.csv)
 
-    - 3: Location Temperature
-      - [Location Data](https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv)
+- 3: Location Temperature
+    - [Location Data](https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv)
 
 #### Raw Data - (optional) some data manipulation may be required.
 
@@ -129,16 +127,16 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
  [Raw Data Set](https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data)
 
 
-## Added Credit
+## Additional Credit
 
 If the teams find that they complete the task, they is options to improve, considerations include
 
-  - Create addition a Alexa response, targeting different personas
+- Create addition a Alexa response, targeting different personas
     - Consider
         - Patient - "Hi Carl, you need to move location"
         - Carers - "Carl is in trouble you need to contact him, it's his Body "
         - Family - " Carl is fine, but could do with you calling him"
-  - Consider increase the Data set
+- Consider increase the Data set
     - Noise, Light (this will require creating a simple data set)
       - Noise (db) level measured during the time period
       - Light (Lux) Level measured during the time period
