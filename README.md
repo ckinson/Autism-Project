@@ -118,11 +118,13 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
 
 ### Raw Data - (optional) some data manipulation may be required.
 
- Below is data sent byt Autism Together, collected from the actual devices over a 21hr period.
+ Below is data sent in by Autism Together, collected from the actual devices over a 24hr period.
 
  I’ve attached some CSV files for the Hackathon. You have some sample data from the environmental system on one spreadsheet and then separate sheets with the E4 (Bio-metric) data, the data we are keen on is the EDA, ACC and heart rate. Please note the accelerometer (ACC) data should be in 3 planes, x,y and z.
 
- [Raw Data Set](https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data)
+ [Raw Data Info](https://github.com/ckinson/Autism-Project/blob/master/Data/Real_Data/info.txt)
+
+ [Raw Data Sets Folder](https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data)
 
 
 ## Additional Credit
