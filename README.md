@@ -1,6 +1,10 @@
 ![Header](./images/header.png)
 
+
+
 # Autism Project - Biometric Analysis and Response - Hack-athon
+
+
 
 ## General Statement -
 
@@ -94,7 +98,7 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
     - 3: Location Temperature
       - [Location Data](https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv)
 
- #### Raw Data - (optional) some data manipulation may be required.
+#### Raw Data - (optional) some data manipulation may be required.
 
  Below is data sent byt Autism Together, collected from the actual devices over a 21hr period.
 
