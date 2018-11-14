@@ -82,11 +82,20 @@ Work Autism Together is doing and why.
     - [Team 7 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
     - [Team 8 Space](https://github.com/ckinson/DTC-Hackathon-Team8)
 
+•Note - you will see the each repo has three folders
+- Code - this is to store any code you create, including configuration files
+- Docs - this is to store you documents you create, ensure you document you solution and learnings
+- Media - If you take photos, or video recordings please store here (funny moments are welcome)
+
+
+#### AWS Service Info
   - Any AWS service can be used -
 
   [AWS Service Catalogue Link](https://console.aws.amazon.com/console/home?region=us-east-1)
 
   ![AWS Service Cat](./images/awscat.png)
+
+#### Alexa Skills Info
 
   - Alexa will be the AI interface
 
