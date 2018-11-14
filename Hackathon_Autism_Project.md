@@ -57,13 +57,13 @@ Work Autism Together is doing and why.
 ### Tools
 
   - Code will reside on a DXC Partner Github under and agreed DXC Repository. (You can login with your email address you provided to DTC).
-    - Team 1 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team1
-    - Team 2 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team2
-    - Team 3 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team3
-    - Team 4 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team4
-    - Team 5 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team5
-    - Team 6 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team6
-    - Team 7 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team7
+    - Team 1 - https://github.com/ckinson/DTC-Hackathon-Team1
+    - Team 2 - https://github.com/ckinson/DTC-Hackathon-Team2
+    - Team 3 - https://github.com/ckinson/DTC-Hackathon-Team3
+    - Team 4 - https://github.com/ckinson/DTC-Hackathon-Team4
+    - Team 5 - https://github.com/ckinson/DTC-Hackathon-Team5
+    - Team 6 - https://github.com/ckinson/DTC-Hackathon-Team6
+    - Team 7 - https://github.com/ckinson/DTC-Hackathon-Team7
 
   - Any AWS service can be used -
 
