@@ -4,11 +4,13 @@
 
 People who suffer from Autism want to have a normal quality of life, however what are normal daily tasks / environmental and other events to none autism sufferers are major issues for people who suffer from this invisible mental issue. A lack of investment in social care, means that many people have to try to self heal and handle their activities without supporting systems and intelligence. If technology could provide patients with a non-intrusive monitoring, awareness and alerting service based on information processed by sensors and biometrics, Autism suffers, carers and family can be informed ahead of an issue, and corrective measure could be applied. The volume, variety and veracity of the data to be processed and responded too for a single human is not achievable let alone for 10's 100's of sufferers.
 
-### Problem Statement - 
+### Problem Statement -
 
-Autism together (the client) is trying to provide better quality of life for it's patients who suffer from Autism, the challenge today is that current monitoring and reponse is done by human interaction which is inefficant and costly. To improve the monitoing and response for for it patients the client has collected data from various sensors relating to a patients biometric and enviromental levels, the client would like to be able to analyis the data and produce a response to various support functions based on certain triggers levels. The outcome should enable a patient to be monitored independant of a personal carer / family and support a better quality of life. 
+Autism together (the client) is trying to provide better quality of life for its patients who suffer from Autism, the challenge today is that current monitoring and response is done by human interaction which is inefficient and costly. To improve the monitoring and response for for it patients the client has collected data from various sensors relating to a patients biometric and environmental levels, the client would like to be able to analysis the data and produce a response to various support functions based on certain triggers levels. The outcome should enable a patient to be monitored independent of a personal carer / family and support a better quality of life.
 
 ### Overview of Consider Solutions
+
+Some consideration has been given the consider solution, although these are guidelines, teams have the option to develop a solution using any method they see fit.
 
 [Reference User stories](./Data%20Story%20-%20Improve%20Care.md)
 
@@ -62,7 +64,13 @@ Work Autism Together is doing and why.
     - Team 5 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team5
     - Team 6 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team6
     - Team 7 - https://partner-github.csc.com/ckinson/DTC-Hackathon-Team7
-  - Any AWS service can be used
+
+  - Any AWS service can be used -
+
+  https://console.aws.amazon.com/console/home?region=us-east-1
+
+  [AWS Service Cat](./images/awscat.png)
+
   - Alexa will be the AI interface
 
 ### Data
@@ -80,15 +88,15 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
 
     - 3: Location Temperature
       - https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv
-      
+
  #### Raw Data - (optional) some data manipulation may be required.
- 
- Below is data sent byt Autism Together, collected from the actual devices over a 21hr period. 
- 
+
+ Below is data sent byt Autism Together, collected from the actual devices over a 21hr period.
+
  I’ve attached some CSV files for the Hackathon. You have some sample data from the environmental system on one spreadsheet and then separate sheets with the E4 (Bio-metric) data, the data we are keen on is the EDA, ACC and heart rate. Please note the accelerometer (ACC) data should be in 3 planes, x,y and z.
- 
+
  https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data
- 
+
 
 ### Added Credit
 
