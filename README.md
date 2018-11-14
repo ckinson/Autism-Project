@@ -60,9 +60,18 @@ Work Autism Together is doing and why.
 - Understand the Data you are looking at
 
 
-## Tools
+## Teams and Tools
 
-  - Code will reside on  Github under the following team spaces, teams will have access throught their Github userid's
+#### Team Members
+
+  - Please see the Link below to see your team allocation
+
+  [Team Members](https://github.com/ckinson/Autism-Project/blob/master/docs/teamstructure.md)
+
+  *Action* - Please Fork, Edit and Send a Pull Request back to update the Team Members sheet with your Github ID.
+
+#### Team Spaces
+  - Code will reside on  Github under the following team spaces, teams will have access thought their Github userid's
 
     - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
     - [Team 2 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
@@ -71,6 +80,7 @@ Work Autism Together is doing and why.
     - [Team 5 Space](https://github.com/ckinson/DTC-Hackathon-Team5)
     - [Team 6 Space](https://github.com/ckinson/DTC-Hackathon-Team6)
     - [Team 7 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
+    - [Team 8 Space](https://github.com/ckinson/DTC-Hackathon-Team8)
 
   - Any AWS service can be used -
 
