@@ -18,6 +18,7 @@ The Hack-athon event will focus on the
 
 ##### In-Scope
     - Data Storage in the Cloud
+    - Turn the static Datasets into a simulated live feed
     - Data Processing - Ability to apply a simple query through code
     - Simple Event Trigger based on correlation of data events
     - Event Response through AI (Alexa)
