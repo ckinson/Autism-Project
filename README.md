@@ -50,7 +50,7 @@ Work Autism Together is doing and why.
 
 - Make sure you have a Github Account on [Github Link](https://github.com)  
   - Please note we are using two github Repo's
-    - 1: General Information Repo [LINK](https://github.com/ckinson/Autism-Project (For reference Only / Data Sources)
+    - 1: General Information Repo [LINK](https://github.com/ckinson/Autism-Project) (For reference Only / Data Sources)
     - 2: Your Team repo (detail below) - This is secure, all code, Data and information for your team is stored here.
 - You are familiar with AWS Services
 - Understand the Data you are looking at
