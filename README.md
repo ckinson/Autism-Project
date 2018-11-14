@@ -105,7 +105,7 @@ These data sets are made up, based on nominal levels from various data sources.
 
 Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment covering Light and Temperature.
 
-#### Three Data sets are provided
+### Three Data sets are provided
 
 - 1: Biometric from Off the self Personal Device (Fitbit or Other)
     - [Biometric Data](https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv)
@@ -116,7 +116,7 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
 - 3: Location Temperature
     - [Location Data](https://github.com/ckinson/Autism-Project/blob/master/Data/RoomTemp-Data_Set-24Hrs.csv)
 
-#### Raw Data - (optional) some data manipulation may be required.
+### Raw Data - (optional) some data manipulation may be required.
 
  Below is data sent byt Autism Together, collected from the actual devices over a 21hr period.
 
