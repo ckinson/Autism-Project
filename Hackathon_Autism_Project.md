@@ -69,7 +69,7 @@ Work Autism Together is doing and why.
 
   https://console.aws.amazon.com/console/home?region=us-east-1
 
-  [AWS Service Cat](./images/awscat.png)
+  ![AWS Service Cat](./images/awscat.png)
 
   - Alexa will be the AI interface
 
