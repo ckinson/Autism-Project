@@ -53,7 +53,7 @@ Work Autism Together is doing and why.
     - 1: General Information Repo [LINK](https://github.com/ckinson/Autism-Project) (For reference Only / Data Sources)
     - 2: Your Team repo (detail below) - This is secure, all code, Data and information for your team is stored here.
 - You are familiar with AWS Services
-- Understand the Data you are looking at
+- Understand the Data you are looking at, data set links are available at the bottom of this doc.
 
 
 ## Teams and Tools
