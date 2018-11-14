@@ -49,8 +49,8 @@ Following a successful pattern match, an Alexa response should be triggered with
 
 Work Autism Together is doing and why.
 
-  - [Information on Behaviour](https://www.autism.org.uk/about/behaviour/meltdowns.aspx)
-  - [BBC News clip](https://www.bbc.co.uk/news/av/health-44680214/the-watch-that-could-help-manage-severe-autism?SThisFB=)
+    - [Information on Behaviour](https://www.autism.org.uk/about/behaviour/meltdowns.aspx)
+    - [BBC News clip](https://www.bbc.co.uk/news/av/health-44680214/the-watch-that-could-help-manage-severe-autism?SThisFB=)
 
 - Make sure you have a Github Account on [Github Link](https://github.com)  
   - Please note we are using two github Repo's
@@ -73,23 +73,25 @@ Work Autism Together is doing and why.
 #### Team Spaces
   - Code will reside on  Github under the following team spaces, teams will have access thought their Github userid's
 
-    - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
-    - [Team 2 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
-    - [Team 3 Space](https://github.com/ckinson/DTC-Hackathon-Team3)
-    - [Team 4 Space](https://github.com/ckinson/DTC-Hackathon-Team4)
-    - [Team 5 Space](https://github.com/ckinson/DTC-Hackathon-Team5)
-    - [Team 6 Space](https://github.com/ckinson/DTC-Hackathon-Team6)
-    - [Team 7 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
-    - [Team 8 Space](https://github.com/ckinson/DTC-Hackathon-Team8)
+      - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
+      - [Team 2 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
+      - [Team 3 Space](https://github.com/ckinson/DTC-Hackathon-Team3)
+      - [Team 4 Space](https://github.com/ckinson/DTC-Hackathon-Team4)
+      - [Team 5 Space](https://github.com/ckinson/DTC-Hackathon-Team5)
+      - [Team 6 Space](https://github.com/ckinson/DTC-Hackathon-Team6)
+      - [Team 7 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
+      - [Team 8 Space](https://github.com/ckinson/DTC-Hackathon-Team8)
 
-•Note - you will see the each repo has three folders
-- Code - this is to store any code you create, including configuration files
-- Docs - this is to store you documents you create, ensure you document you solution and learnings
-- Media - If you take photos, or video recordings please store here (funny moments are welcome)
+*Note*  - you will see the each repo has three folders
+
+      - <b>Code</b> - this is to store any code you create, including configuration files
+      - <b>Docs</b> - this is to store you documents you create, ensure you document you solution and learnings
+      - <b>Media</b> - If you take photos, or video recordings please store here (funny moments are welcome)
 
 
 #### AWS Service Info
-  - Any AWS service can be used -
+
+Any AWS service can be used -
 
   [AWS Service Catalogue Link](https://console.aws.amazon.com/console/home?region=us-east-1)
 
@@ -97,7 +99,7 @@ Work Autism Together is doing and why.
 
 #### Alexa Skills Info
 
-  - Alexa will be the AI interface
+      - Alexa will be the AI interface
 
     Alexa AI provides the ability to develop your own AI Skills, more information on this can be found here [LINK](https://developer.amazon.com/alexa-skills-kit)
 
@@ -107,7 +109,8 @@ These data sets are made up, based on nominal levels from various data sources.
 
 Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment covering Light and Temperature.
 
-  - Three Data sets are provided
+#### Three Data sets are provided
+
     - 1: Biometric from Off the self Personal Device (Fitbit or Other)
       - [Biometric Data](https://github.com/ckinson/Autism-Project/blob/master/Data/Biometrics-Data_Set-24Hrs.csv)
 
