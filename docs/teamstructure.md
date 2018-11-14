@@ -31,7 +31,7 @@
 | Migle Grajauskaite	| Northumbria University|	5 |<userID> |
 | DJ Basilan	| Northumbria University|	5 |<userID> |
 | Neville Bulmer	| Northumbria University|	5 |<userID> |
-| Kieron Naylor	Northumbria University|	6 |<userID> |
+| Kieron Naylor	 | Northumbria University|	6 |<userID> |
 | Connor Tall	| Northumbria University|	6 |<userID> |
 | Callum Downdall	| Northumbria University|	6 |<userID> |
 | Nathan Thompson	| Newcastle University|	7 |<userID> |
