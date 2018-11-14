@@ -1,6 +1,6 @@
-## Autism Project - Biometric Analysis and Response - Hack-athon
-
 ![Header](./images/header.png)
+
+## Autism Project - Biometric Analysis and Response - Hack-athon
 
 ### General Statement -
 
