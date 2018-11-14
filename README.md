@@ -1,33 +1,33 @@
 ![Header](./images/header.png)
 
-## Autism Project - Biometric Analysis and Response - Hack-athon
+# Autism Project - Biometric Analysis and Response - Hack-athon
 
-### General Statement -
+## General Statement -
 
 People who suffer from Autism want to have a normal quality of life, however what are normal daily tasks / environmental and other events to none autism sufferers are major issues for people who suffer from this invisible mental issue. A lack of investment in social care, means that many people have to try to self heal and handle their activities without supporting systems and intelligence. If technology could provide patients with a non-intrusive monitoring, awareness and alerting service based on information processed by sensors and biometrics, Autism suffers, carers and family can be informed ahead of an issue, and corrective measure could be applied. The volume, variety and veracity of the data to be processed and responded too for a single human is not achievable let alone for 10's 100's of sufferers.
 
-### Problem Statement -
+## Problem Statement -
 
 Autism together (the client) is trying to provide better quality of life for its patients who suffer from Autism, the challenge today is that current monitoring and response is done by human interaction which is inefficient and costly. To improve the monitoring and response for for it patients the client has collected data from various sensors relating to a patients biometric and environmental levels, the client would like to be able to analysis the data and produce a response to various support functions based on certain triggers levels. The outcome should enable a patient to be monitored independent of a personal carer / family and support a better quality of life.
 
-### Overview of Consider Solutions
+## Overview of Consider Solutions
 
 Some consideration has been given the consider solution, although these are guidelines, teams have the option to develop a solution using any method they see fit.
 
 [Reference User stories](./Data%20Story%20-%20Improve%20Care.md)
 
-### Hack-athon scope
+## Hack-athon scope
 
 The Hack-athon event will focus on the
 
-##### In-Scope
+#### In-Scope
     - Data Storage in the Cloud
     - Turn the static Datasets into a simulated live feed
     - Data Processing - Ability to apply a simple query through code
     - Simple Event Trigger based on correlation of data events
     - Event Response through AI (Alexa)
 
-##### Out of scope
+#### Out of scope
     - Connecting to live data streams from devices
     - Multiple AI interfaces
     - Complex analytics Analysis
@@ -41,7 +41,7 @@ Following a successful pattern match, an Alexa response should be triggered with
 
   <b>"Hello World, I believe you need some help"</b>
 
-### Preparation
+## Preparation
 
 Work Autism Together is doing and why.
 
@@ -56,17 +56,17 @@ Work Autism Together is doing and why.
 - Understand the Data you are looking at
 
 
-### Tools
+## Tools
 
   - Code will reside on  Github under the following team spaces, teams will have access throught their Github userid's
 
-    - Team 1 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
-    - Team 2 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
-    - Team 3 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team3)
-    - Team 4 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team4)
-    - Team 5 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team5)
-    - Team 6 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team6)
-    - Team 7 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
+    - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
+    - [Team 2 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
+    - [Team 3 Space](https://github.com/ckinson/DTC-Hackathon-Team3)
+    - [Team 4 Space](https://github.com/ckinson/DTC-Hackathon-Team4)
+    - [Team 5 Space](https://github.com/ckinson/DTC-Hackathon-Team5)
+    - [Team 6 Space](https://github.com/ckinson/DTC-Hackathon-Team6)
+    - [Team 7 Space](https://github.com/ckinson/DTC-Hackathon-Team7)
 
   - Any AWS service can be used -
 
@@ -78,7 +78,7 @@ Work Autism Together is doing and why.
 
     Alexa AI provides the ability to develop your own AI Skills, more information on this can be found here [LINK](https://developer.amazon.com/alexa-skills-kit)
 
-### Data
+## Data
 
 These data sets are made up, based on nominal levels from various data sources.
 
@@ -103,7 +103,7 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
  [Raw Data Set](https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data)
 
 
-### Added Credit
+## Added Credit
 
 If the teams find that they complete the task, they is options to improve, considerations include
 
