@@ -73,6 +73,8 @@ Work Autism Together is doing and why.
 
   - Alexa will be the AI interface
 
+    Alexa AI provides the ability to develop your own AI Skills, more information on this can be found here [LINK](https://developer.amazon.com/alexa-skills-kit)
+
 ### Data
 
 These data sets are made up, based on nominal levels from various data sources.
