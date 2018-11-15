@@ -3,7 +3,7 @@
 ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST. 
 
 | Name| 	University	| Team Number |Github ID
-|-----|---------------|------------|----------|
+|-----|---------------|:------------:|----------|
 |Rui Pedro Lagarto Cabral Bastos de Lima	| Sunderland University	| 1 | <userID> |
 | Luke Allen Richard Tanner-Smith	| Sunderland University|	1|<userID> |
 | Oscar Tiernan	| Sunderland University	|1|<userID> |
