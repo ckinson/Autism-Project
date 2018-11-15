@@ -1,5 +1,6 @@
 ## Teams, User IDs and Email Addresses
 
+ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST. 
 
 | Name| 	University	| Team Number |Github ID
 |-----|---------------|------------|----------|
