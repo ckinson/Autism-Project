@@ -3,7 +3,7 @@
 
 ### Problem statement
 
-People who suffer from Autism want to have a normal quality of life, however what are normal daily tasks / environmental and other events to none autism sufferers are major issues for people who suffer from this invisible mental issue. A lack of investment in social care, means that many people have to try to self heal and handle their activities without supporting systems and intelligence. If technology could provide patients with a non-intrusive monitoring, awareness and alerting service based on information processed by sensors and biometrics, Autism suffers, carers and family can be informed ahead of an issue, and corrective measure could be applied. The volume, variety and veracity of the data to be processed and responded too for a single human is not achievable let alone for 10's 100's of sufferers.
+Autism Together (the client) is trying to better understand and support individuals with complex and challenging autism. The current method of observation only is not sufficient to understand rising anxiety and the potential for an onset of aggression in individuals. To improve this, the client has collected data from two main sources: a) from biometric devices worm by residents at a care home, b) from sensors gathering environmental data from the home itself. The client would like to be able to analyse the data and produce an algorithm which cross references each source and triggers a response from the support team. The outcome would enable each individual to experience a better quality of life.
 
 ### Solution
 
