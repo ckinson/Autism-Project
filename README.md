@@ -4,15 +4,20 @@
 
 ## General Statement -
 
-People who suffer from Autism want to have a normal quality of life, however what are normal daily tasks / environmental and other events to none autism sufferers are major issues for people who suffer from this invisible mental issue. A lack of investment in social care, means that many people have to try to self heal and handle their activities without supporting systems and intelligence. If technology could provide patients with a non-intrusive monitoring, awareness and alerting service based on information processed by sensors and biometrics, Autism suffers, carers and family can be informed ahead of an issue, and corrective measure could be applied. The volume, variety and veracity of the data to be processed and responded too for a single human is not achievable let alone for 10's 100's of sufferers.
+Autism is a lifelong neurological condition which affects one in every hundred people in the UK. As a spectrum condition, it affects each individual differently. High functioning individuals may be acutely intelligent and at the top of their professions, those with more complex challenges and additional difficulties (such as learning difficulties) may need much more support. A common thread is that nearly three quarters of those on the spectrum experience sensory differences. They may be under- or over-sensitive to light, sound, touch, taste etc and may have trouble with balance and spatial awareness. Communication is a further key issue. Some individuals will have difficulty understanding speech, some may not understand what their voice is for, others will be selectively mute. Problems communicating can mean that emotions – such as rising anxiety related to a sensory overload - are expressed physically, with sudden meltdowns which can include violence towards themselves or others or running away.  
+
+If technology, in the form of non-intrusive biometric wristbands, could provide staff with a way to monitor each individual, giving awareness of rising agitation and anxiety before any marked behavior changes, each person could be better understood and supported. If the data gathered by the biometric device can then be cross-referenced with further data gathered by sensors positioned throughout the living environment – such as a residential care home – carers would be able to understand even more: such as, whether light (for example, sunlight, strip lights), noise levels or heat were a likely cause of the rising agitation shown on the biometric device.
+
+At this point the volume, variety and veracity of the data to be processed and responded to for even a single human is not achievable.
+
 
 ## Problem Statement -
 
-Autism together (the client) is trying to provide better quality of life for its patients who suffer from Autism, the challenge today is that current monitoring and response is done by human interaction which is inefficient and costly. To improve the monitoring and response for for it patients the client has collected data from various sensors relating to a patients biometric and environmental levels, the client would like to be able to analysis the data and produce a response to various support functions based on certain triggers levels. The outcome should enable a patient to be monitored independent of a personal carer / family and support a better quality of life.
+Autism Together (the client) is trying to better understand and support individuals with complex and challenging autism. The current method of observation only is not sufficient to understand rising anxiety and the potential for an onset of aggression in individuals. To improve this, the client has collected data from two main sources: a) from biometric devices worm by residents at a care home, b) from sensors gathering environmental data from the home itself. The client would like to be able to analyse the data and produce an algorithm which cross references each source and triggers a response from the support team. The outcome would enable each individual to experience a better quality of life.
 
 ## Overview of Consider Solutions
 
-Some consideration has been given the consider solution, although these are guidelines, teams have the option to develop a solution using any method they see fit.
+Some consideration has been given to a possible solution, although these are ideas, teams have the option to develop a solution using any method they see fit.
 
 [Reference User stories](./Data%20Story%20-%20Improve%20Care.md)
 
