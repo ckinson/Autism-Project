@@ -127,7 +127,7 @@ Based on a 24hr monitoring session from a Biometrics Sensor, and two Environment
 
  I’ve attached some CSV files for the Hackathon. You have some sample data from the environmental system on one spreadsheet and then separate sheets with the E4 (Bio-metric) data, the data we are keen on is the EDA, ACC and heart rate. Please note the accelerometer (ACC) data should be in 3 planes, x,y and z.
 
- [Raw Data Info](https://github.com/ckinson/Autism-Project/blob/master/Data/Real_Data/info.txt)
+ [Raw Data Info](https://github.com/ckinson/Autism-Project/blob/master/Data/Real_Data/info.md)
 
  [Raw Data Sets Folder](https://github.com/ckinson/Autism-Project/tree/master/Data/Real_Data)
 
