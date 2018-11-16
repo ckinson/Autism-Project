@@ -1,6 +1,6 @@
 ![Header](./images/header.png)
 
-# DXC Hack-athon - Biometric Analysis and Response
+# DXC Hackathon - Biometric Analysis and Response
 
 ## General Statement -
 
@@ -23,7 +23,7 @@ Some consideration has been given to a possible solution, although these are ide
 
 ## Hack-athon scope
 
-The Hack-athon event will focus on the
+The Hackathon event will focus on the
 
 #### In-Scope
     - Data Storage in the Cloud
