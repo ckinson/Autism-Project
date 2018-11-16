@@ -139,7 +139,7 @@ If the teams find that they complete the task, they is options to improve, consi
 - Create addition a Alexa response, targeting different personas
     - Consider
         - Patient - "Hi Carl, you need to move location"
-        - Carers - "Carl is in trouble you need to contact him, it's his Body "
+        - Carers - "Carl is in trouble you need to contact him, it's his Body Temp "
         - Family - " Carl is fine, but could do with you calling him"
 - Consider increase the Data set
     - Noise, Light (this will require creating a simple data set)
