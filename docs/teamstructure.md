@@ -18,7 +18,7 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Dionysis Ntreou	| Sunderland University|	2 |<userID> |
 | Konstantinos Mylonas	| Sunderland University|	3| <userID> |
 | Alexandros Michalis	| Sunderland University|	3| <userID> |
-| Georgia Kopalidi	| Sunderland University|	3| #45078500> |
+| Georgia Kopalidi	| Sunderland University|	3|  GeorgiaKopalidi |
 | Spyridon Tsenempis	| Sunderland University|	3 |<userID> |
 | Dawid Michniuk	| Northumbria University|	4 |<userID> |
 | Saugat Bashyal	| Northumbria University|	4 |<userID> |
