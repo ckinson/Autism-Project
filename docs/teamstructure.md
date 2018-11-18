@@ -32,7 +32,7 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Migle Grajauskaite	| Northumbria University|	5 |<userID> |
 | DJ Basilan	| Northumbria University|	5 |<userID> |
 | Neville Bulmer	| Northumbria University|	5 |<userID> |
-| Kieron Naylor	 | Northumbria University|	6 |<userID> |
+| Kieron Naylor	 | Northumbria University|	6 |KN1512 |
 | Connor Tall	| Northumbria University|	6 |<userID> |
 | Callum Downdall	| Northumbria University|	6 |<userID> |
 | Nathan Thompson	| Newcastle University|	7 |<userID> |
