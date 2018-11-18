@@ -12,7 +12,7 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Anthony Bolan	| Sunderland University|	1|10PinT |
 | Florentin Eduard Decu	| Sunderland University|	2|<userID> |
 | Arben Durmishllari	| Sunderland University|	2 |<userID> |
-| Georgios Botzakis	| Sunderland University	|2|<userID> |
+| Georgios Botzakis	| Sunderland University	|2| GeorgeBotzakis |
 | Christos Athanasiou	| Sunderland University|	2|<userID> |
 | Stavros Charitos	| Sunderland University|	2 |<userID> |
 | Dionysis Ntreou	| Sunderland University|	2 |<userID> |
