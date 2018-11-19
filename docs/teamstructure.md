@@ -35,10 +35,10 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Kieron Naylor	 | Northumbria University|	6 |KN1512 |
 | Connor Tall	| Northumbria University|	6 |<userID> |
 | Callum Downdall	| Northumbria University|	6 |<userID> |
-| Nathan Thompson	| Newcastle University|	7 |<userID> |
-| Michael Dono	| Newcastle University|	7 |<userID> |
+| Nathan Thompson	| Newcastle University|	7 | Nathant-18 |
+| Michael Dono	| Newcastle University|	7 | MichaelDono |
 | Harry Tran	| Newcastle University|	7 |<userID> |
-| Ben Harris	| Newcastle University|	7 |<userID> |
+| Ben Harris	| Newcastle University|	7 | BenJHarris |
 | Nathan Steele	| Newcastle University|	8 |<userID> |
 | Michael Putra	| Newcastle University|	8 |<userID> |
 | Natalia Wojciak	| Newcastle University|	8 |<userID> |
