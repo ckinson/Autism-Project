@@ -11,7 +11,7 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Dawid Stefaniak	| Sunderland University|	1|<userID> |
 | Anthony Bolan	| Sunderland University|	1|10PinT |
 | Florentin Eduard Decu	| Sunderland University|	2|DFEduard |
-| Arben Durmishllari	| Sunderland University|	2 |<userID> |
+| Arben Durmishllari	| Sunderland University|	2 |BenDurmishllari |
 | Georgios Botzakis	| Sunderland University	|2| GeorgeBotzakis |
 | Christos Athanasiou	| Sunderland University|	2|<userID> |
 | Stavros Charitos	| Sunderland University|	2 |<userID> |
