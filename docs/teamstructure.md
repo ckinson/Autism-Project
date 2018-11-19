@@ -14,7 +14,7 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Arben Durmishllari	| Sunderland University|	2 |BenDurmishllari |
 | Georgios Botzakis	| Sunderland University	|2| GeorgeBotzakis |
 | Christos Athanasiou	| Sunderland University|	2|<userID> |
-| Stavros Charitos	| Sunderland University|	2 |<userID> |
+| Stavros Charitos	| Sunderland University|	2 |polikas |
 | Dionysis Ntreou	| Sunderland University|	2 |<userID> |
 | Konstantinos Mylonas	| Sunderland University|	3| <userID> |
 | Alexandros Michalis	| Sunderland University|	3| <userID> |
