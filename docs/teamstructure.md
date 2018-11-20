@@ -13,8 +13,8 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Florentin Eduard Decu	| Sunderland University|	2|DFEduard |
 | Arben Durmishllari	| Sunderland University|	2 |BenDurmishllari |
 | Georgios Botzakis	| Sunderland University	|2| GeorgeBotzakis |
+| Stavros Charitos	| Sunderland University|	2 |polikas |
 | Christos Athanasiou	| Sunderland University|	2|grooper2 |
-| Stavros Charitos	| Sunderland University|	2 |<userID> |
 | Dionysis Ntreou	| Sunderland University|	2 |<userID> |
 | Konstantinos Mylonas	| Sunderland University|	3| <userID> |
 | Alexandros Michalis	| Sunderland University|	3| <userID> |
