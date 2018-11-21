@@ -33,7 +33,7 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | DJ Basilan	| Northumbria University|	5 |<userID> |
 | Neville Bulmer	| Northumbria University|	5 |<userID> |
 | Kieron Naylor	 | Northumbria University|	6 |KN1512 |
-| Connor Tall	| Northumbria University|	6 |<userID> |
+| Connor Tall	| Northumbria University|	6 |29928516 |
 | Callum Downdall	| Northumbria University|	6 |<userID> |
 | Nathan Thompson	| Newcastle University|	7 | Nathant-18 |
 | Michael Dono	| Newcastle University|	7 | MichaelDono |
