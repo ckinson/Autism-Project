@@ -39,7 +39,7 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Michael Dono	| Newcastle University|	7 | MichaelDono |
 | Harry Tran	| Newcastle University|	7 |<userID> |
 | Ben Harris	| Newcastle University|	7 | BenJHarris |
-| Nathan Steele	| Newcastle University|	8 |<userID> |
+| Nathan Steele	| Newcastle University|	8 | nimpod |
 | Michael Putra	| Newcastle University|	8 |shuramike22 |
 | Natalia Wojciak	| Newcastle University|	8 |NWojciak4 |
 | Kat Nozka	| Newcastle University|	8 |KNozka |
