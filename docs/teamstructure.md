@@ -6,9 +6,9 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 |-----|---------------|:------------:|----------|
 |Rui Pedro Lagarto Cabral Bastos de Lima	| Sunderland University	| 1 | RuiLima1 |
 | Luke Allen Richard Tanner-Smith	| Sunderland University|	1|<userID> |
-| Oscar Tiernan	| Sunderland University	|1|<userID> |
+| Oscar Tiernan	| Sunderland University	|1| Bh03mo |
 | Saad Moosa	| Sunderland University	|1|<userID> |
-| Dawid Stefaniak	| Sunderland University|	1|<userID> |
+| Dawid Stefaniak	| Sunderland University|	1| dawidstefaniak |
 | Anthony Bolan	| Sunderland University|	1|10PinT |
 | Florentin Eduard Decu	| Sunderland University|	2|DFEduard |
 | Arben Durmishllari	| Sunderland University|	2 |BenDurmishllari |
