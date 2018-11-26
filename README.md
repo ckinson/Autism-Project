@@ -73,6 +73,8 @@ Work Autism Together is doing and why.
 
 #### Team Spaces
   - Code will reside on  Github under the following team spaces, teams will have access thought their Github userid's
+  
+## TEAM SPACES NOW MADE PUBLIC
 
 - [Team 1 Space](https://github.com/ckinson/DTC-Hackathon-Team1)
 - [Team 2 Space](https://github.com/ckinson/DTC-Hackathon-Team2)
